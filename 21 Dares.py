@@ -118,7 +118,7 @@ while game == True:
 		if ans =='Yes':
 			start1()
 		else:
-			print ("Do you wish quit the game? (Yes/No)")
+			print ("Do you wish to quit the game? (Yes/No)")
 			nex = input('> ')
 			if nex == "Yes":
 				print ("You are quitting the game...")
